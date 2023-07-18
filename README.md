@@ -7,4 +7,5 @@ I like to learn by practice.
 
 - feature-A
 - feature-B
+- faeture-C
 
